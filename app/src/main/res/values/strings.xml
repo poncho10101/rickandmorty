@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+
+    <string name="character_label_name">Name</string>
+    <string name="character_label_species">Species</string>
+    <string name="character_label_status">Status</string>
+    <string name="character_hint_search">Search character</string>
+
+    <string name="error_server_empty_response">Something went wrong, try again</string>
+    <string name="error_server_404">Error 404, please contact an Admin</string>
+    <string name="error_network">Network error, try again</string>
+    <string name="error_unknown">Unknown error, try again</string>
+</resources>
